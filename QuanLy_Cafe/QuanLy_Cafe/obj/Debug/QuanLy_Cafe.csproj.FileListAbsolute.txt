@@ -1,0 +1,12 @@
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\bin\Debug\QuanLy_Cafe.exe.config
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\bin\Debug\QuanLy_Cafe.exe
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\bin\Debug\QuanLy_Cafe.pdb
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.csprojResolveAssemblyReference.cache
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.fLogin.resources
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.Properties.Resources.resources
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.csproj.GenerateResource.Cache
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.exe
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.pdb
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.fTableManager.resources
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.fAccountProfile.resources
+E:\C#\Kteam\Winform\QLCF\QuanLy_Cafe\QuanLy_Cafe\obj\Debug\QuanLy_Cafe.fAdmin.resources
